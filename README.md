@@ -1,0 +1,2 @@
+# REGIDOR_PROJECT_REPOSITORY
+Stock Management
